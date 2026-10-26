@@ -26,6 +26,3 @@ java -cp ".;bin;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner
 - `TestArregloMax`: 10 tests (empty, single, negatives, position variants, mixed).
 - `TestArregloMin`: symmetric coverage for min.
 - `Test.java`: file-based integration test with `testeo.txt`.
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-Co-Authored-By: Claude Code <noreply@anthropic.com>
